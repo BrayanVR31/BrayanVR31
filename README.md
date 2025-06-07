@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Brayan 👋
 
-<!--
-**BrayanVR31/BrayanVR31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Fullstack Developer with experience in building web applications using JavaScript, TypeScript, React, and Node.js. I enjoy creating efficient and scalable solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Technologies & Tools
+- Frontend: React, TypeScript, HTML, CSS
+- Backend: Node.js, Express, MongoDB
+- Others: Git, Docker, REST APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Brayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrayanVR31&show_icons=true&theme=radical)
+
+## 📫 Contact Me
+- [LinkedIn](https://www.linkedin.com/in/brayan-vázquez-ramírez-0701162b6)
+
